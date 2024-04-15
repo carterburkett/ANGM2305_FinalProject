@@ -22,14 +22,14 @@ A simple implementation of Pong in Python. Players will control one paddle, and 
 -Creating an acceleration/Deacceleartion algorithm.
   -This is difficult because the ball should interact with certain behaviors depending on the direction of the ball and paddle, as well as where it hits on the paddle.
 
-##Outcomes
+## Outcomes
 Ideal Outcome:
 - A functional game of pong where the ball does not clip inside of, or through the paddles
 
 Minimal Viable Outcome:
 -A functional game of pong where the AI is slighlty easier or more difficult than it should be, and where there are still some sporatic cases of clipping during ball collisions
 
-#Milestones
+# Milestones
 -Week 1:
   -A basic drawn "board"
   -A controllable paddle
