@@ -1,9 +1,9 @@
-#ANGM 2305 Final Project: Pong in Python
+# ANGM 2305 Final Project: Pong in Python
 
-##Repository Link
+## Repository Link
 <https://github.com/carterburkett/ANGM2305_FinalProject.git>
 
-##Description
+## Description
 A simple implementation of Pong in Python. Players will control one paddle, and play against a simple AI. They will either win or lose based off of their score.
 
 ## Features
