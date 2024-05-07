@@ -31,7 +31,7 @@ Pygame: <https://www.pygame.org/>
 
 Python Random: <https://www.w3schools.com/python/module_random.asp>
 
-References:
+##References:
 "Very Simple Pong Game (Pygame)": <https://www.pygame.org/project-Very+simple+Pong+game-816-.html>
 
 "Pong Tutorial using Pygame" : <https://www.101computing.net/pong-tutorial-using-pygame-getting-started/>
