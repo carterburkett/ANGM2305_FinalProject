@@ -21,5 +21,13 @@ In the future, I would like to improve on quality of life aspects of the game. T
 
 ## Dependencies
 This game is reliant upon pygame. Pygame was primarily used as a convenient way to create Rects, and provide a base to a collision algorithm. It also handles the game’s display, text, etc. 
+Pygame: <https://www.pygame.org/>
+Python Random: <https://www.w3schools.com/python/module_random.asp>
+
+References:
+"Very Simple Pong Game (Pygame)": <https://www.pygame.org/project-Very+simple+Pong+game-816-.html>
+"Pong Tutorial using Pygame" : <https://www.101computing.net/pong-tutorial-using-pygame-getting-started/>
+Previous Experince with Pong: <https://www.youtube.com/watch?v=qWk3NywldIM&list=PLDVE0HI6K5Y4pnCYBdwN5fWwj7ZvufYhL&index=5>
+
 
 
