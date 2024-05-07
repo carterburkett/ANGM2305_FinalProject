@@ -16,7 +16,7 @@ This project is a fully play version of pong. The AI increase with difficulty ba
 Layer 1 is between the ball’s next position, and the current position of the paddle. This should handle most collision cases as it is searching for a collision before it’s happened. If the ball collides, its velocity is reversed. The second layer is the collision between the actual position of the ball, and the position of the paddle. In the event the paddle moves into the ball, or the ball bounces off the wall in a way that the first layer of protection does not detect or expect, the program can still catch the collision and send the ball back to the other player.
 
 
-###Challenges
+### Challenges
 Getting the multiple classes to work together and talk to eachother in a way that was not redundant was a challenge in python. I am used to working with structs and lists in C++/C#. While Python's libraries and dictionaries are very similar to those two tools, when starting to build the game I found that they were almost too heavy for a game like Pong. It added a layer of complexity that only hindered the code and the game. So i made the decision to not use them and approach the game in a way that I thought was more becoming of a Python program; Python's strengths lie in its abililty to stay simple.
 
 
